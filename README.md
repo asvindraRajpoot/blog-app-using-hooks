@@ -19,4 +19,4 @@ npm start
 
 ## Deployment
 
-https://blog-app3-kt.netlify.app/
+https://61c3f6b4fa1ce422435969cb--writy.netlify.app/
